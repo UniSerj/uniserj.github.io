@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Software Engineering, Dalian University of Technology, 2018
 * B.S. in Information Technology, University of Sydney, 2018
-* M.S. in Computer Science, University of Sydney, 2019
+* M.Phil. in Computer Science, University of Sydney, 2019
 * Ph.D in Computer Science, University of Sydney, 2023 (expected)
 
 Experience
