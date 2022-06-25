@@ -1,5 +1,5 @@
 ---
-title: "Crafting Efficient Neural Graph of Large Entropy"
+title: "On Retrospecting Human Dynamics with Attention"
 authors: "<i><b>Minjing Dong</b></i>, Chang Xu"
 collection: publications
 permalink: /publication/human_ijcai_2019
