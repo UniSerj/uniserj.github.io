@@ -1,5 +1,5 @@
 ---
-title: "Adversarially robust neural architectures"
+title: "Adversarially Robust Neural Architectures"
 authors: "<i><b>Minjing Dong</b></i>, Yanxi Li, Yunhe Wang, Chang Xu"
 collection: publications
 permalink: /publication/racl_arxiv_2020

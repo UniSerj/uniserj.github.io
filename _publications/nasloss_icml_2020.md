@@ -1,5 +1,5 @@
 ---
-title: "Neural architecture search in a proxy validation loss landscape"
+title: "Neural Architecture Search in A Proxy Validation Loss Landscape"
 authors: "Yanxi Li, <i><b>Minjing Dong</b></i>, Yunhe Wang, Chang Xu"
 collection: publications
 permalink: /publication/nasloss_icml_2020

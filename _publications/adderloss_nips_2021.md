@@ -1,0 +1,10 @@
+---
+title: "Handling Long-tailed Feature Distribution in Addernets"
+authors: "<i><b>Minjing Dong</b></i>, Yunhe Wang, Xinghao Chen, Chang Xu"
+collection: publications
+permalink: /publication/adderloss_nips_2021
+date: 2021-12-06
+venue: '2021 Advances in Neural Information Processing Systems. NeurIPS 2021.'
+paperurl: 'https://proceedings.neurips.cc/paper/2021/file/95323660ed2124450caaac2c46b5ed90-Paper.pdf'
+abstract: "Adder neural networks (ANNs) are designed for low energy cost which replace expensive multiplications in convolutional neural networks (CNNs) with cheaper additions to yield energy-efficient neural networks and hardware accelerations. Although ANNs achieve satisfactory efficiency, there exist gaps between ANNs and CNNs where the accuracy of ANNs can hardly be compared to CNNs without the assistance of other training tricks, such as knowledge distillation. The inherent discrepancy lies in the similarity measurement between filters and features, however how to alleviate this difference remains unexplored. To locate the potential problem of ANNs, we focus on the property difference due to similarity measurement. We demonstrate that unordered heavy tails in ANNs could be the key component which prevents ANNs from achieving superior classification performance since fatter tails tend to overlap in feature space. Through pre-defining Multivariate Skew Laplace distributions and embedding feature distributions into the loss function, ANN features can be fully controlled and designed for various properties. We further present a novel method for tackling existing heavy tails in ANNs with only a modification of classifier where ANN features are clustered with their tails well-formulated through proposed angle-based constraint on the distribution parameters to encourage high diversity of tails. Experiments conducted on several benchmarks and comparison with other distributions demonstrate the effectiveness of proposed approach for boosting the performance of ANNs."
+---

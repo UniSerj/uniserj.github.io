@@ -1,5 +1,5 @@
 ---
-title: "Adversarial recurrent time series imputation"
+title: "Adversarial Recurrent Time Series Imputation"
 authors: "Shuo Yang, <i><b>Minjing Dong</b></i>, Yunhe Wang, Chang Xu"
 collection: publications
 permalink: /publication/time_tnnls_2020
