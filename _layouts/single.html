@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p>{{ page.authors }} </p>
+          <p>{{ page.authors }}</p>
           <p>Published in <i>{{ page.venue }}</i></p>
 <!--          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>-->
         {% elsif page.date %}
@@ -52,7 +52,12 @@ layout: default
         {% elsif page.paperurl %}
           <p>Download <a href=" {{ page.paperurl }} ">here</a></p>
         {% endif %}
-    
+
+        {% if page.abstract%}
+          <h2>Abstract</h2>
+          <p>{{ page.abstract }}</p>
+        {% endif %}
+
         </header>
       {% endunless %}
 
