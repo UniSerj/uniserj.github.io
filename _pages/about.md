@@ -28,7 +28,7 @@ I am looking for self-motivated MPhil/PhD students enrolled in the year of 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/2023/TMM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stealthy Physical Masked Face Recognition Attack via Adversarial Style Optimization](https://arxiv.org/pdf/2309.09480.pdf)
@@ -40,7 +40,7 @@ Huihui Gong, **Minjing Dong**, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/2023/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial Robustness through Random Weight Sampling](https://openreview.net/pdf?id=SIE9N5nnHg)
@@ -52,7 +52,7 @@ Yanxiang Ma, **Minjing Dong**, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/2023/TIP2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/TIP2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Lightweight AdderNet via Distillation from ℓ2 to ℓ1-Norm](https://ieeexplore.ieee.org/abstract/document/10268345/)
@@ -66,7 +66,7 @@ Yanxiang Ma, **Minjing Dong**, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/2023/AAAI2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AAAI2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural architecture search for wide spectrum adversarial robustness](https://ojs.aaai.org/index.php/AAAI/article/view/25118/24890)
@@ -78,7 +78,7 @@ Zhi Cheng, Yanxi Li, **Minjing Dong**, Xiu Su, Shan You, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/2023/AAAI2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AAAI2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Boosting semi-supervised semantic segmentation with probabilistic representations](https://ojs.aaai.org/index.php/AAAI/article/view/25396/25168)
@@ -92,7 +92,7 @@ Haoyu Xie, Changqi Wang, Mingkai Zheng, **Minjing Dong**, Shan You, Chong Fu, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/2023/ICML2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual Focal Loss for Calibration](https://arxiv.org/pdf/2305.13665)
@@ -106,7 +106,7 @@ Linwei Tao <sup>\*</sup>, **Minjing Dong <sup>\*</sup>**, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023/CVPR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial Robustness via Random Projection Filters](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Adversarial_Robustness_via_Random_Projection_Filters_CVPR_2023_paper.pdf)
@@ -120,7 +120,7 @@ Linwei Tao <sup>\*</sup>, **Minjing Dong <sup>\*</sup>**, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/2023/IJCAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/IJCAI2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/pdf/2302.06245.pdf)
@@ -134,7 +134,7 @@ Linwei Tao, **Minjing Dong**, Daochang Liu, Changming Sun, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/2022/NeurIPS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/NeurIPS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Random normalization aggregation for adversarial defense](https://proceedings.neurips.cc/paper_files/paper/2022/file/da3d4d2e9b37f78ec3e7d0428c9b819a-Paper-Conference.pdf)
@@ -148,7 +148,7 @@ Linwei Tao, **Minjing Dong**, Daochang Liu, Changming Sun, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/2022/TPAMI2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/TPAMI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural architecture search via proxy validation](https://drive.google.com/file/d/1yAYiYLE6XvjwDsey8vb6vCKBr2-BGMaf/view)
@@ -160,7 +160,7 @@ Yanxi Li, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/2022/ICML2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ICML2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatial-channel token distillation for vision mlps](https://proceedings.mlr.press/v162/li22c/li22c.pdf)
@@ -172,7 +172,7 @@ Yanxi Li, Xinghao Chen, **Minjing Dong**, Yehui Tang, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2022</div><img src='images/2022/Neuro2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2022</div><img src='images/Neuro2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural architecture tuning with policy adaptation](https://drive.google.com/file/d/19e25xk70m6eDkB1sUW3Y6vGxGQ2F-Go4/view)
@@ -184,7 +184,7 @@ Yanxi Li, **Minjing Dong**, Yixing Xu, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/2022/TNNLS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2022</div><img src='images/TNNLS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Skeleton-based human motion prediction with privileged supervision](https://ieeexplore.ieee.org/abstract/document/9761789/)
@@ -196,7 +196,7 @@ Yanxi Li, **Minjing Dong**, Yixing Xu, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/2021/NeurIPS2021-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/NeurIPS2021-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An empirical study of adder neural networks for object detection](https://proceedings.neurips.cc/paper/2021/file/37693cfc748049e45d87b8c7d8b9aacd-Paper.pdf)
@@ -208,7 +208,7 @@ Xinghao Chen, Chang Xu, **Minjing Dong**, Chunjing Xu, Yunhe Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/2021/NeurIPS2021-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/NeurIPS2021-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Handling long-tailed feature distribution in addernets](https://proceedings.neurips.cc/paper/2021/file/95323660ed2124450caaac2c46b5ed90-Paper.pdf)
@@ -220,7 +220,7 @@ Xinghao Chen, Chang Xu, **Minjing Dong**, Chunjing Xu, Yunhe Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/2021/NeurIPS2021-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/NeurIPS2021-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards stable and robust addernets](https://proceedings.neurips.cc/paper/2021/file/6e3197aae95c2ff8fcab35cb730f6a86-Paper.pdf)
@@ -232,7 +232,7 @@ Xinghao Chen, Chang Xu, **Minjing Dong**, Chunjing Xu, Yunhe Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2020</div><img src='images/2020/ICML2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2020</div><img src='images/ICML2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural architecture search in a proxy validation loss landscape](http://proceedings.mlr.press/v119/li20c/li20c.pdf)
@@ -244,7 +244,7 @@ Yanxi Li, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2020</div><img src='images/2020/TNNLS2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2020</div><img src='images/TNNLS2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial recurrent time series imputation](https://ieeexplore.ieee.org/abstract/document/9158560/)
@@ -256,7 +256,7 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/2019/IJCAI2019-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/IJCAI2019-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Crafting Efficient Neural Graph of Large Entropy](https://www.ijcai.org/proceedings/2019/0311.pdf)
@@ -268,7 +268,7 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/2019/IJCAI2019-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2019</div><img src='images/IJCAI2019-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On Retrospecting Human Dynamics with Attention](https://www.ijcai.org/proceedings/2019/0100.pdf)
