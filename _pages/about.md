@@ -28,6 +28,42 @@ I am looking for self-motivated MPhil/PhD students enrolled in the year of 2024.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR2024-2.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Benchmark Study on Calibration](https://openreview.net/pdf?id=GzNhzX9kVa)
+
+Linwei Tao, Younan Zhu, Haolan Guo, **Minjing Dong**, Chang Xu
+
+*International Conference on Learning Representations (ICLR), 2024*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR2024-1.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neural Architecture Retrieval](https://openreview.net/pdf?id=1JtTPYBKqt)
+
+Xiaohuan Pei, Yanxi Li, **Minjing Dong**, Chang Xu
+
+*International Conference on Learning Representations (ICLR), 2024*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI2024.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AMD: Autoregressive Motion Diffusion](https://arxiv.org/pdf/2305.09381.pdf)
+
+Bo Han, Hao Peng, **Minjing Dong**, Chang Xu, Yi Ren, Yixuan Shen, Yuheng Li
+
+*AAAI Conference on Artificial Intelligence (AAAI), 2024*
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM2023.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -282,14 +318,14 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 </div>
 
+# 🏆 Awards
+- *2023*, AAAI-23 Distinguished Paper Award (12/8777)
+- *2020*, Faculty of Engineering Research Scholarship, University of Sydney 
+
 # 📖 Teaching
 - *2023*, Guest Lecturer, HTIN5005: Applied Healthcare Data Science, University of Sydney
 - *2023*, Guest Lecturer, COMP5329: Deep Learning, University of Sydney
 - *2019*, Teaching Assistant, COMP5329: Deep Learning, University of Sydney
-
-# 🏆 Awards
-- *2023*, AAAI-23 Distinguished Paper Award (12/8777)
-- *2020*, Faculty of Engineering Research Scholarship, University of Sydney 
 
 # 💗 Services
 - *2022-2023*, Event Co-organizer of Coding Fest, University of Sydney 
