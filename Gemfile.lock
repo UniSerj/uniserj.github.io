@@ -272,10 +272,10 @@ GEM
     unf_ext (0.0.9)
     unf_ext (0.0.9-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-23
   universal-darwin-19
   x64-mingw-ucrt
   x86_64-linux
@@ -286,8 +286,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   tzinfo-data (~> 1.2021, >= 1.2021.5)
-  wdm (~> 0.1.0)
   webrick
 
 BUNDLED WITH
-   2.2.19
+   2.3.26

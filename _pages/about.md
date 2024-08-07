@@ -20,13 +20,41 @@ redirect_from:
 I am an Assistant Professor at the <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a>, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a> since January 2024. I received my Ph.D. and M.Phil degree from <a href="https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html">School of Computer Science</a>, <a href="https://www.sydney.edu.au/">University of Sydney</a>, supervised by <a href="http://changxu.xyz/">Dr. Chang Xu</a>. Before that, I received my BS degrees in Software Engineering and Information Technology from both <a href="http://en.dlut.edu.cn/">Dalian University of Technology</a> and <a href="https://www.sydney.edu.au/">University of Sydney</a>. My research interests include trustworthy machine learning algorithms and their related applications in computer vision. Currently, my research focuses on: adversarial robustness, model calibration, efficient neural network, neural architecture search, generative model, and human motion analytics.
 
 # 📯 Opening
-I am looking for self-motivated MPhil/PhD students enrolled in the year of 2024. If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks, feel free to send me an email (dong_serj[AT]hotmail[dot]com), with your CV, transcript, and publication. Successful PhD applicants will enroll in 2024 with scholarship.
+I am looking for self-motivated MPhil/PhD students enrolled in the year of 2025. If you are interested in trustworthy machine learning research, computer vision, generative models, adversarial robustness, model calibration, or efficient neural networks, feel free to send me an email (dong_serj[AT]hotmail[dot]com), with your CV, transcript, and publication. Successful PhD applicants will enroll in 2024 with scholarship.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Imitation Learning from Purified Demonstrations](https://arxiv.org/pdf/2310.07143)
+
+Yunke Wang, **Minjing Dong**, Yukun Zhao, Bo Du, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2024*
+
+[[Code]](https://github.com/yunke-wang/dp-il)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Random Entangled Tokens for Adversarially Robust Vision Transformer](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Random_Entangled_Tokens_for_Adversarially_Robust_Vision_Transformer_CVPR_2024_paper.pdf)
+
+Huihui Gong, **Minjing Dong**, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+
+[[Code]](https://github.com/small-seven/reit)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR2024-2.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,6 +64,8 @@ I am looking for self-motivated MPhil/PhD students enrolled in the year of 2024.
 Linwei Tao, Younan Zhu, Haolan Guo, **Minjing Dong**, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2024*
+
+[[Code]](https://github.com/Linwei94/calibration-study)
 
 </div>
 </div>
@@ -48,6 +78,8 @@ Linwei Tao, Younan Zhu, Haolan Guo, **Minjing Dong**, Chang Xu
 Xiaohuan Pei, Yanxi Li, **Minjing Dong**, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2024*
+
+[[Code]](https://github.com/TerryPei/NNRetrieval)
 
 </div>
 </div>
@@ -72,6 +104,8 @@ Bo Han, Hao Peng, **Minjing Dong**, Chang Xu, Yi Ren, Yixuan Shen, Yuheng Li
 Huihui Gong, **Minjing Dong**, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu
 
 *IEEE Transactions on Multimedia, 2023*
+
+[[Code]](https://github.com/small-seven/sasmask)
 
 </div>
 </div>
@@ -319,15 +353,18 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 </div>
 
 # 🏆 Awards
+- *2024*, Best PhD Thesis Award, University of Sydney
 - *2023*, AAAI-23 Distinguished Paper Award (12/8777)
 - *2020*, Faculty of Engineering Research Scholarship, University of Sydney 
 
 # 📖 Teaching
+- *2024*, Lecturer, CS1302: Introduction to Computer Programming, City University of Hong Kong
 - *2023*, Guest Lecturer, HTIN5005: Applied Healthcare Data Science, University of Sydney
 - *2023*, Guest Lecturer, COMP5329: Deep Learning, University of Sydney
 - *2019*, Teaching Assistant, COMP5329: Deep Learning, University of Sydney
 
 # 💗 Services
+- *2024*, Organizer of Tutorial "Efficient_and_Secure_Foundation_Models", IJCNN 2024
 - *2022-2023*, Event Co-organizer of Coding Fest, University of Sydney 
 - *2022*, Event Co-organizer of DICTA 2022 Workshop
 - PC member of CVPR, ICML, AAAI, NeurIPS, ACMMM, ICLR, ICCV, ICDM, WCCI, WACV, KDD
@@ -338,6 +375,6 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 - *2019.03-2019.12*, Research Associate in University of Sydney
 
 # -
-Last Update: Nov 15, 2023
+Last Update: Aug 07, 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ri30fIs_ngyakkhnRm17nSa29gGcPEctypBMWs7Itvo&cl=ffffff&w=300"></script>
