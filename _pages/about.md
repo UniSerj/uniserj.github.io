@@ -86,7 +86,7 @@ Haoyang Luo, Linwei Tao, **Minjing Dong**, Chang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025-1.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty Weighted Gradients for Model Calibration](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Uncertainty_Weighted_Gradients_for_Model_Calibration_CVPR_2025_paper.pdf)
