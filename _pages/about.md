@@ -28,6 +28,78 @@ I am looking for self-motivated MPhil/PhD students enrolled in the year of 2026.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025-2.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VSSD: Vision Mamba with Non-Causal State Space Duality](https://arxiv.org/pdf/2407.18559)
+
+Yuheng Shi, **Minjing Dong**, Chang Xu
+
+*International Conference on Computer Vision (ICCV),  2025*
+
+[[Code]](https://github.com/YuHengsss/VSSD)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025-1.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Harnessing Vision Foundation Models for High-Performance, Training-Free
+Open Vocabulary Segmentation](https://arxiv.org/pdf/2411.09219)
+
+Yuheng Shi, **Minjing Dong**, Chang Xu
+
+*International Conference on Computer Vision (ICCV),  2025*
+
+[[Code]](https://github.com/YuHengsss/Trident)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025-2.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adversarial Robustness via Deformable Convolution with Stochasticity](https://openreview.net/pdf?id=vISiVCssVg)
+
+Yanxiang Ma, Zixuan Huang, **Minjing Dong**, Shan You, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2025*
+
+[[Code]](https://github.com/theSleepyPig/Deformable_Convolution_with_Stochasticity)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025-1.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond One-Hot Labels: Semantic Mixing for Model Calibration](https://arxiv.org/pdf/2504.13548)
+
+Haoyang Luo, Linwei Tao, **Minjing Dong**, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2025*
+
+[[Code]](https://github.com/E-Galois/CSM)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty Weighted Gradients for Model Calibration](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Uncertainty_Weighted_Gradients_for_Model_Calibration_CVPR_2025_paper.pdf)
+
+Jinxu Lin, Linwei Tao, **Minjing Dong**, Chang Xu
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+
+[[Code]](https://github.com/Jinxu-Lin/BSCE-GRA)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +109,7 @@ Jinxu Lin, Linwei Tao, **Minjing Dong**, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2025*
 
-[[Code]](https://anonymous.4open.science/r/Diffusion-Attribution-Score-411F/README.md)
+[[Code]](https://github.com/Jinxu-Lin/DAS)
 
 </div>
 </div>
@@ -434,6 +506,7 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 
 # 💗 Services
 
+- *2025*, Area Chair of NeurIPS 2025
 - *2025*, Area Chair of ICML 2025
 - *2025*, Organizer of Workshop ["The Workshop on Sustainable AI for the Future Web"](https://www25-sustainableai.github.io/), WWW 2025
 - *2024*, Area Chair of NeurIPS 2024
@@ -448,6 +521,6 @@ Shuo Yang, **Minjing Dong**, Yunhe Wang, Chang Xu
 - *2019.03-2019.12*, Research Associate in University of Sydney
 
 # -
-Last Update: Feb 11, 2025
+Last Update: Jun 26, 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ri30fIs_ngyakkhnRm17nSa29gGcPEctypBMWs7Itvo&cl=ffffff&w=300"></script>
